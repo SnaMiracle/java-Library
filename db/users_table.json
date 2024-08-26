@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "firstname": "lim",
+    "lastname": "chanra",
+    "username": "chanra",
+    "password": "123",
+    "user_type": "user"
+  },
+  {
+    "id": 2,
+    "firstname": "Mao",
+    "lastname": "minun",
+    "username": "ahminun",
+    "password": "1234",
+    "user_type": "user"
+  },
+  {
+    "id": 6,
+    "firstname": "Phin",
+    "lastname": "Chanveasna",
+    "username": "snamiracle",
+    "password": "123",
+    "user_type": "admin"
+  },
+  {
+    "id": 7,
+    "firstname": "veasna",
+    "lastname": "chan",
+    "username": "veasna",
+    "password": "123",
+    "user_type": "owner"
+  }
+]

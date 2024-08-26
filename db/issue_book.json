@@ -1,0 +1,10 @@
+[
+  {
+    "book_id": 5,
+    "member_id": 7,
+    "status": "returned",
+    "issue_date": "8/8/2024",
+    "return_date": "10/8/2024",
+    "note": ""
+  }
+]
